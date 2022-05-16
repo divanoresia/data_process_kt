@@ -9,6 +9,7 @@ from torch.utils.data import DataLoader
 import torch.nn as nn
 
 #AI qixiang
+# test version1
 def image_read (fname,factor = 70):
     #雷达回波 factor = 70
     #风速  factor = 35
